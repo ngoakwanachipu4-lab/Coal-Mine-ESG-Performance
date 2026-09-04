@@ -1,0 +1,13 @@
+ESG_Year,Month_Number,Month_Name,Avg_Energy_kWh,Avg_Water_kL,Waste_Generated_t,Waste_Recycled_t,Recycling_Rate_Pct,Avg_GHG_Emissions_tCO2e,Employees,Female_Employees,Local_Employees,Female_Representation_Pct,Local_Employment_Pct,Energy_Change_Pct,Water_Change_Pct,Recycling_Change_PP,GHG_Change_Pct,Female_Change_PP,Local_Change_PP,Energy_Status,Water_Status,Recycling_Status,GHG_Status,Female_Status,Local_Employment_Status
+2025,1,Jan,13235.01,7062.97,15453.7,11388.4,73.69,817.93,619,118,472,19.08,76.32,0,0,0,0,0,0,Baseline,Baseline,Baseline,Baseline,Baseline,Baseline
+2025,2,Feb,13808.14,7132.07,13957.4,10014.9,71.75,799.15,621,117,467,18.84,75.22,4.33,0.98,-1.94,-2.3,-0.24,-1.1,Deteriorating,Stable,Deteriorating,Improving,Stable,Deteriorating
+2025,3,Mar,13449.95,7356.39,14475.1,10445.6,72.16,809.19,622,120,465,19.3,74.74,-2.59,3.15,0.41,1.26,0.46,-0.48,Improving,Deteriorating,Stable,Deteriorating,Stable,Stable
+2025,4,Apr,13245.7,6935.32,14940.3,10413.2,69.7,811.85,621,123,469,19.77,75.47,-1.52,-5.72,-2.46,0.33,0.47,0.74,Improving,Improving,Deteriorating,Stable,Stable,Stable
+2025,5,May,13478.12,7147.51,15972,11285.6,70.66,803.82,620,123,461,19.84,74.43,1.75,3.06,0.96,-0.99,0.07,-1.04,Deteriorating,Deteriorating,Stable,Stable,Stable,Deteriorating
+2025,6,Jun,13156.97,7125.48,14015.6,10194.7,72.74,765.45,622,118,462,18.9,74.37,-2.38,-0.31,2.08,-4.77,-0.94,-0.06,Improving,Stable,Improving,Improving,Stable,Stable
+2025,7,Jul,13635.17,7116.86,15278.8,10996.6,71.97,757.62,621,118,471,19.09,75.88,3.63,-0.12,-0.77,-1.02,0.18,1.51,Deteriorating,Stable,Stable,Improving,Stable,Improving
+2025,8,Aug,13489.5,7346.04,15237.6,11033.9,72.41,719.33,620,120,463,19.31,74.65,-1.07,3.22,0.44,-5.05,0.22,-1.23,Improving,Deteriorating,Stable,Improving,Stable,Deteriorating
+2025,9,Sep,13373.75,6962.54,15114.5,11013.6,72.87,723.74,620,117,458,18.9,73.91,-0.86,-5.22,0.46,0.61,-0.41,-0.74,Stable,Improving,Stable,Stable,Stable,Stable
+2025,10,Oct,13341.55,7103.53,14682.5,10616.3,72.31,715.95,619,119,463,19.17,74.79,-0.24,2.02,-0.56,-1.08,0.27,0.88,Stable,Deteriorating,Stable,Improving,Stable,Stable
+2025,11,Nov,13581.94,7316.29,14097.6,10199.7,72.35,737.68,620,124,469,19.96,75.69,1.8,3,0.04,3.04,0.79,0.9,Deteriorating,Deteriorating,Stable,Deteriorating,Stable,Stable
+2025,12,Dec,13688.11,7124.13,14969.2,10211.3,68.22,752.39,620,119,460,19.25,74.18,0.78,-2.63,-4.14,1.99,-0.71,-1.51,Stable,Improving,Deteriorating,Deteriorating,Stable,Deteriorating
